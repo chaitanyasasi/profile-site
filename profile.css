@@ -1,0 +1,38 @@
+body {
+    overflow-x: hidden;
+
+}
+
+.top-intro {
+    height: 400px;
+    width: 100%;
+    background-image: linear-gradient(rgb(43, 39, 39), transparent), url(/images/bg-img-top.jpg);
+    background-size: cover;
+}
+
+.my-photo {
+    height: 250px;
+    width: 70%;
+    margin-top: 10%;
+    margin-left: 25%;
+    border: 10px solid rgb(53, 50, 50);
+}
+
+.intropara {
+    width: 53%;
+    margin-left: 3%;
+    margin-top: 4%;
+
+}
+
+.line {
+    height: 05px;
+    width: 70% !important;
+    background-color: rgb(236, 139, 20);
+    color: rgb(237, 133, 6);
+    margin-left: 15%;
+}
+
+.skilimg {
+    margin-left: 15%;
+}
